@@ -1,0 +1,46 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+   
+    background-image: url(wp2511148.jpg);
+    background-repeat: no-repeat;
+    background-attachment:scroll;
+    background-size: 100%, 100%;
+}
+#btn{
+    margin-top: 150px;
+    margin-left: 200px;
+    font-size: larger;
+    padding: 30px;
+    width: 300px;
+    background-color: transparent;
+    box-shadow: 0 6px 6px rgba(2.6, 0, 0, 2.6);
+    border-color: black;
+    border-radius: 6px;
+
+}
+#btn1{
+    margin-top: 50px;
+    margin-left: 200px;
+    
+    font-size: larger;
+    padding: 30px;
+    background-color:transparent;
+    box-shadow: 0 6px 6px rgba(2.6, 0, 0, 2.6);
+    width: 300px;
+    border-color: black;
+    border-radius: 6px;
+
+}
+#btn:hover{
+    color: gray;
+    cursor: pointer;
+    transform: scale(1.2);
+}
+#btn1:hover{
+    color: gray;
+    cursor: pointer;
+    transform: scale(1.2);
+}
